@@ -1,0 +1,2 @@
+This file was added from the second cloned repository.
+This demonstrates GitHub collaboration using clone, commit and push.
